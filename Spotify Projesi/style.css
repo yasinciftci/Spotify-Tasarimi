@@ -1,0 +1,28 @@
+.ekranyazi{
+    font-size: 90px;
+    color:rgb(0,255,0);
+    font-family: bold;
+}
+.altyazi{
+    color:rgb(0,255,0);
+}
+.kutu{
+    text-align: center;
+    margin-top: 150px
+}
+
+body{
+    background-repeat: no-repeat;
+}
+
+.nav-item{
+    margin-right: 100px;
+}
+.altlogo{
+    margin-top: -180px;
+    margin-right: 35px;
+}
+
+a i {
+    background-color: grey;
+}
